@@ -1,2 +1,2 @@
-# Orbt.io-Sample
-Sample App for Orbt.io messaging platform
+# Kappa
+Kappa is a stock analysis & streaming platform.  More info coming soon.
