@@ -1,0 +1,33 @@
+{
+  "name": "Kappa",
+  "version": "0.0.1",
+  "description": "Kappa is a realtime equity tracking platform",
+  "main": "index.js",
+  "scripts": {
+    "start": "node ./bin/www"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git@github.com:PhilipBale/Kappa.git"
+  },
+  "keywords": [
+
+  ],
+  "author": "Philip Bale",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/PhilipBale/Orbt.io-Sample/issues"
+  },
+  "homepage": "https://github.com/PhilipBale/Orbt.io-Sample#readme",
+  "dependencies": {
+    "oauth": "~0.9.15",
+    "body-parser": "~1.15.1",
+    "cookie-parser": "~1.4.3",
+    "debug": "~2.2.0",
+    "ejs": "~2.4.1",
+    "express": "~4.13.4",
+    "mongoose": "^4.6.0",
+    "morgan": "~1.7.0",
+    "serve-favicon": "~2.3.0"
+  }
+}
